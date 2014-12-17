@@ -1,7 +1,5 @@
 using System;
 using System.Collections.Generic;
-using System.Text;
-using System.Data;
 using MotronicTools;
 
 namespace MotronicSuite
@@ -16,6 +14,7 @@ namespace MotronicSuite
         MOTRONIC44,
         MOTRONIC18,
         MOTRONICME7,
+        MOTRONICME96,
         UNKNOWN
     }
     /// <summary>
